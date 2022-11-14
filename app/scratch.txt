@@ -1,0 +1,23 @@
+mysql://  anwg95jgaovp9uqp  :  web92t6ylxqqorwe
+@     jbb8y3dri1ywovy2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/owwohfgj4z3f1nf2
+
+
+SPRING_DATASOURCE_URL    jdbc:mysql://jbb8y3dri1ywovy2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/owwohfgj4z3f1nf2
+SPRING_DATASOURCE_USERNAME  anwg95jgaovp9uqp
+SPRING_DATASOURCE_PASSWORD  web92t6ylxqqorwe
+
+
+jbb8y3dri1ywovy2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+
+jbb8y3dri1ywovy2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/owwohfgj4z3f1nf2
+
+
+
+2nd one:
+mysql://a49rw8qctlrd280h :  jdkrhlc85o8tgehv
+
+@ o2olb7w3xv09alub.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/gi8jx1o3xqdfb6ad
+
+SPRING_DATASOURCE_URL    jdbc:mysql://o2olb7w3xv09alub.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/gi8jx1o3xqdfb6ad
+SPRING_DATASOURCE_USERNAME  a49rw8qctlrd280h
+SPRING_DATASOURCE_PASSWORD  jdkrhlc85o8tgehv
